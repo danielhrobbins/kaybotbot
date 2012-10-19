@@ -1,0 +1,3 @@
+pause
+
+node sparkle.js

@@ -1,0 +1,44 @@
+{
+  "name": "sparklebot",
+  "description": "A customizable Turntable.fm room bot.",
+  "version": "1.0.6",
+  "keywords": [
+    "turntable.fm",
+    "turntable",
+    "stickybits"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sharedferret/Sparkle-Turntable-Bot.git"
+  },
+  "author": {
+    "name": "Kate Wellington",
+    "email": "sharedferret@gmail.com"
+  },
+  "main": "sparkle.js",
+  "directories": {
+    "api": "api",
+    "commands": "commands",
+    "SQL Tables": "SQL Tables"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "dependencies": {
+    "ttapi": "*",
+    "request": "*",
+    "xml2js": ">= 0.1.13",
+    "mysql": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "_id": "sparklebot@1.0.6",
+  "_engineSupported": true,
+  "_npmVersion": "1.1.21",
+  "_nodeVersion": "v0.6.18",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "b0baa3f4b8bad3c6e65bf3a9771226e2df37675f"
+  },
+  "_from": "sparklebot"
+}

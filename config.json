@@ -1,0 +1,58 @@
+{"botinfo":
+	{"auth":"auth+live+29bb58258672b40149a562ee4c6185823a906878",
+	"userid":"4eed5e29590ca2576200371b",
+	"botname":"Kay"},
+"roomid":"4f681d78590ca246e401b6cf",
+"admin":"4ed6fdfb4fe7d01c80000392",
+"database":
+	{"usedb":true,
+	"dbname":"tt_dbase_one", 
+    "logchat":true,
+	"tablenames": 
+		{"song": "SONGLIST", 
+		"chat": "CHATLOG", 
+		"user": "USERS", 
+		"holiday": "HOLIDAY_GREETINGS"},
+	"login":{
+		"user":"root",
+		"password":"t3Vn1x6M",
+        "host": "localhost"}},
+"lastfm":
+	{"useapi":true,
+	"lastfmkey":"885f046ad046aab116fd8eb4730614c3"},
+"http":
+    {"usehttp": true,
+    "port": 8181,
+    "host": "localhost"},
+"responses":
+	{"respond":true,
+    "announcebonus":false,
+	"reportsongstats":false,
+	"welcomeusers":true,
+    "welcomepm":false,
+    "alwayspm":false,
+    "pmgreet": "There goes the neighborhood, it is ",
+	"greeting":"There goes the neighborhood, it is ",
+	"ownerresponse":"Instead of having a life, Dan created me. What a loser.",
+	"sing":true, 
+	"rules": 
+		{"description": "Are you done?", 
+		"link": "w-w-w dot piss-off dot-com"}
+	},
+"consolelog":false,
+"bonusvote":"VOTE",
+"enforcement":
+	{"enforceroom":false,
+    "waitlist":false,
+	"songstoplay":1,
+	"stepuprules":
+		{"waittostepup":false,
+		"waittype":"SONGS",
+		"length":1},
+	"ffarules":
+		{"multiplespotffa":true,
+		"timerffa":false,
+		"timeout":10}
+    }, 
+"maintenance": 
+	{"autorejoin": true}}
